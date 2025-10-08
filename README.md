@@ -1,22 +1,8 @@
-# Brain Tumor Detection with VGG-16 CNN Transfer Learning
 
 # 🧠 Brain Tumor Identification and Segmentation using MRI Images
 
 This project focuses on identifying and segmenting **brain tumors from MRI scans** using **image processing** and **machine learning techniques**.  
 By combining **Bilateral Filtering**, **Binary Thresholding**, **K-Means Clustering**, and **Convolutional Neural Networks (CNN)**, this model accurately detects and highlights tumor regions, providing a reliable tool for early diagnosis and research assistance.
-
----
-
-## 📚 Table of Contents
-- [Abstract](#-abstract)
-- [Introduction](#-introduction)
-- [Existing Methods](#-existing-methods)
-- [Proposed Model](#-proposed-model)
-- [System Requirements](#-system-requirements)
-- [Technologies Used](#-technologies-used)
-- [Workflow](#-workflow)
-- [Results](#-results)
-- [Future Scope](#-future-scope)
 
 ---
 
