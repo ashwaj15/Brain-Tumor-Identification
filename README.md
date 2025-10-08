@@ -108,8 +108,3 @@ Our proposed system simplifies the process by using:
 - Expanding dataset diversity for improved generalization.
 
 ---
-
-## 🧠 “Early detection saves lives — Empowering healthcare through machine learning.”
-
-
-We used Convolutional Neural Network to predict whether the subject has Brain Tumor or not from MRI Images. Methods that could be used to increase accuracy includes, using large no. of images i.e., a larger dataset, Hyperparameter Tuning, Using a different Convolutional Neural Network Model may also result in higher accuracy.
