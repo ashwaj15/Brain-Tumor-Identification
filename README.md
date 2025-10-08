@@ -37,10 +37,6 @@ Earlier approaches used **pre-trained deep learning models** such as:
 While effective, these models require large datasets and computational resources.  
 They also may not generalize well for all MRI formats or low-quality images.
 
-<p align="center">
-  <img src="images/existing_method.png" alt="Existing Methods Flow" width="600">
-</p>
-
 ---
 
 ## 🚀 Proposed Model
@@ -55,10 +51,6 @@ Our proposed system simplifies the process by using:
 - Handles noise efficiently  
 - Provides clear segmented tumor regions  
 - Works effectively even on limited datasets  
-
-<p align="center">
-  <img src="images/proposed_model.png" alt="Proposed Model Flow" width="600">
-</p>
 
 ---
 
@@ -99,10 +91,6 @@ Our proposed system simplifies the process by using:
 5. **Detection**: CNN model predicts tumor presence  
 6. **Output**: Segmented image showing tumor region
 
-<p align="center">
-  <img src="images/workflow.png" alt="Workflow Diagram" width="700">
-</p>
-
 ---
 
 ## 🧾 Results
@@ -110,14 +98,6 @@ Our proposed system simplifies the process by using:
 - Produces segmented masks highlighting tumor regions.
 - Reduces false detections compared to threshold-only methods.
 - Demonstrates efficiency on low-resource hardware.
-
-### 📸 Sample Outputs:
-<p align="center">
-  <img src="images/input_mri.png" alt="Input MRI Image" width="300">
-  <img src="images/segmented_output.png" alt="Segmented Output" width="300">
-</p>
-
-*(Upload your MRI input and output screenshots into an `/images` folder in your repo and rename them accordingly.)*
 
 ---
 
